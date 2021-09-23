@@ -56,6 +56,7 @@ span{
 }
 .df-sbetween{
   justify-content: space-between;
+  align-content: space-around;
 }
 .dflex-wrap{
   flex-wrap: wrap;
